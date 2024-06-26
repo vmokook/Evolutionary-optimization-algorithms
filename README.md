@@ -1,5 +1,5 @@
-# Heuristic-algorithms
-В данном репозитории представлены 4 работы по эвристическим алгоритмам. 
+# Evolutionary optimization algorithms
+В данном репозитории представлены 4 работы по эволюционным алгоритмам. 
 
 [1. Алгоритм искусственных водорослей](https://github.com/vmokook/Heuristic-algorithms/blob/main/AAA/AAA.md)
   
