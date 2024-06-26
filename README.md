@@ -7,4 +7,4 @@
   
 3. Применение генетического алгоритма для решения задачи комбинаторики
   
-[4. Алгоритм искусственной иммунной системы](https://github.com/vmokook/Heuristic-algorithms/blob/main/AIS/README.md)
+[4. Алгоритм искусственной иммунной системы](https://github.com/vmokook/Heuristic-algorithms/blob/main/AIS/AIS.md)
